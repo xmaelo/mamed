@@ -1,0 +1,4 @@
+<?php 
+    require 'core/init.php';
+    include 'langues/'.$_SESSION['lang'].'.php';
+?>

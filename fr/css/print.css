@@ -1,0 +1,121 @@
+body, p{
+font-size:small;
+width: 10%;
+height: 30%;;
+}
+
+h1
+{
+background-color:#FFF;
+color:#000;
+border: 1px solid;
+}
+
+h2
+{
+background-color:#FFF;
+border: 1px solid;
+color:#000;
+margin-left:10px;
+text-align: center;
+}
+
+h3
+{
+font-size:large;
+border: 1px solid;
+color:#000;
+}
+
+a.visited, a
+{
+text-decoration:underline;
+color:#000;
+}
+
+textarea, input, .noprint, img
+{
+display:none;
+}
+
+td.colone_a, td.colone_b, th
+{
+background-color:#FFF;
+border:1px dashed;
+}
+
+table
+{
+width:100%;
+}
+
+.box
+{
+margin-left: 2px;
+padding: 1px;
+border:1px solid;
+}
+
+#header
+{
+text-align:center;
+}
+
+.bouton
+{
+width:100% !important;;
+height:100% !important;;
+}
+
+ul
+{
+font-size:small;
+}
+
+ul ul
+{
+font-size:xx-small !important;
+}
+
+.ligne0
+{
+background-color:#EEE
+}
+
+.ligne1
+{
+background-color:#DDD
+}
+
+.prix
+{
+text-align: right;
+}
+
+.unite
+{
+font-size: xx-small;
+}
+
+.commentaire
+{
+font-size: xx-small;
+}
+
+table.tableau
+{
+border-left: 1px solid #000;
+border-bottom: 1px solid #000;
+}
+
+table.tableau tr td, table.tableau tr th
+{
+border-right: 1px solid #000;
+border-top: 1px solid #000;
+}
+
+a
+{
+text-decoration: none;
+}
+
