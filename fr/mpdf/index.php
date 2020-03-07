@@ -177,7 +177,7 @@ ob_start();
 					    <!-- </div> -->
 
 					    <div style="margin-top: -30px;text-align: center">
-							<img src="../<?php if(!$logo==NULL) { echo $logo; } else { echo 'img/logo-maMED.jpeg'; } ?>" width='80' height='80' float="right">
+							<img src="../<?php if(!$logo==NULL) { '../img/Zy29.jpg'; } else { echo '../img/logo-maMED.jpeg'; } ?>" width='80' height='80' float="right">
 					    </div>
 					    <p style="text-align: center;"><?php 
 						    if ($telephone) {echo $telephone; } 
